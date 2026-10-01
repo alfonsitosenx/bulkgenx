@@ -7,7 +7,7 @@ prompt across six providers, and shows what every image costs before you spend.
 
 ## Download
 
-**[Latest release — BulkGenX-Setup-1.0.2.exe](https://github.com/alfonsitosenx/bulkgenx/releases/latest)**
+**[Latest release — BulkGenX-Setup-1.0.3.exe](https://github.com/alfonsitosenx/bulkgenx/releases/latest)**
 
 One installer for both editions: it runs as the free edition until you enter a
 licence key.
